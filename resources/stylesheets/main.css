@@ -1,0 +1,44 @@
+body {
+	font-family: sans-serif;
+	background-color: #dee3e7;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background-color: #444;
+	padding: .5em;
+	flex-direction: row;
+}
+
+content {
+	padding: 1em;
+}
+
+div#headerText {
+	display: inline-block;;
+	flex-direction: column;	
+	color: white;
+}
+
+header a {
+	color: white;
+}	
+
+nav {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: inherit;
+	margin: 0;
+	padding: 0;
+}

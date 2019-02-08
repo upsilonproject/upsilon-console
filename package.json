@@ -1,0 +1,24 @@
+{
+  "name": "upsilon-console",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A shiny new HTML5 console.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upsilonproject/upsilon-console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upsilonproject/upsilon-console/issues"
+  },
+  "homepage": "https://github.com/upsilonproject/upsilon-console#readme",
+  "devDependencies": {
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  }
+}
